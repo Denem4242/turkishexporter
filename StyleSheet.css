@@ -1,0 +1,45 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+/*.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    margin-right: 10px !important;
+    color: white !important;
+}*/
+
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:first-child {
+    margin-left: 10px !important;
+}
+
+.containernew {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.rows {
+    margin:120px 0 0 0;
+    text-align:center;
+}
+
+.box {
+    width: 400px;
+    height: 420px;
+    background-color: #dc3545 !important;
+    padding:40px;
+}
+.mybox {
+    height: 400px;
+    width: 500px;
+    overflow: hidden;
+    outline:none;
+}
